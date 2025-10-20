@@ -122,7 +122,3 @@ Please make sure to follow the repository’s coding standards & include tests i
 ## 📄 License
 
 This project is open-sourced software licensed under the MIT License.
-
----
-
-Thanks for checking out the project — happy quizzing! 🎉
